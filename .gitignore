@@ -1,0 +1,6 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+.ipynb_checkpoints/*
+smi_image.png
+exported/*
